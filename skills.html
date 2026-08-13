@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills & Resume | Elliott Walker</title>
+    <!-- Google Fonts (Kept identical for style matching) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <div class="nav-item">
+            <div class="logo">Elliott Walker</div>
+            <span class="logo-small">&lt;elochi.walker@outlook.com | Midtown High School&gt;</span>
+        </div>
+        <ul class="nav-links">
+            <li><a href="index.html#about">About</a></li>
+            <li><a href="index.html#projects">Projects</a></li>
+            <li><a href="goals.html">Goals</a></li>
+            <li><a href="skills.html" class="active">Skills</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <!-- Skills Section -->
+        <section id="skills" class="fade-section">
+            <h1>Skills & Resume</h1>
+            <h2>Technical Toolkit</h2>
+            <p>A snapshot of the languages, tools, and focus areas I've built up through coursework, FIRST Robotics, and independent projects.</p>
+
+            <h3>Languages</h3>
+            <ul>
+                <li id="sub-li">C# — gameplay systems and procedural generation in Unity</li>
+                <li id="sub-li">Python — simulation, data-driven experiments, and scripting</li>
+                <li id="sub-li">Lua / Luau — Roblox game systems and mechanics</li>
+                <li id="sub-li">HTML / CSS / JavaScript — this site, plus general web work</li>
+            </ul>
+
+            <h3>Focus Areas</h3>
+            <ul>
+                <li id="sub-li">Procedural generation and simulation systems</li>
+                <li id="sub-li">Game mechanics and physics-based gameplay</li>
+                <li id="sub-li">Robotics programming and sensor/hardware concepts</li>
+            </ul>
+
+            <!-- Skills Code Snippet -->
+            <div class="code-snippet">
+                <span style="color: #ff7b72;">const</span> skills = {<br>
+                &nbsp;&nbsp;languages: [<span style="color: #a5d6ff;">'C#'</span>, <span style="color: #a5d6ff;">'Python'</span>, <span style="color: #a5d6ff;">'Lua'</span>, <span style="color: #a5d6ff;">'JavaScript'</span>],<br>
+                &nbsp;&nbsp;focus: [<span style="color: #a5d6ff;">'Procedural Gen'</span>, <span style="color: #a5d6ff;">'Simulation'</span>, <span style="color: #a5d6ff;">'Robotics'</span>],<br>
+                &nbsp;&nbsp;team: <span style="color: #a5d6ff;">'FIRST Robotics — Lead Programmer'</span><br>
+                };
+            </div>
+
+            <h3>Experience</h3>
+            <ol>
+                <li>FIRST Robotics Team — Lead Programmer</li>
+                <ul><li id="sub-li">Write and maintain the team's competition robot code, including sensor integration and autonomous routines.</li></ul>
+            </ol>
+
+            <h3>Get In Touch</h3>
+            <p>Feel free to reach out or check out my code:</p>
+            <div class="code-snippet">
+                <span style="color: #ff7b72;">const</span> contact = {<br>
+                &nbsp;&nbsp;email: <span style="color: #a5d6ff;">'elochi.walker@outlook.com'</span>,<br>
+                &nbsp;&nbsp;github: <span style="color: #a5d6ff;">'github.com/ElochiFighter'</span><br>
+                };
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; Elliott Walker, 2026.</p>
+    </footer>
+
+    <!-- Advanced Scroll Fade In/Out Controller (Preserves page continuity) -->
+    <script>
+        const fadeSections = document.querySelectorAll('.fade-section');
+        const sectionObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                } else {
+                    entry.target.classList.remove('visible');
+                }
+            });
+        }, {
+            threshold: 0.15,
+            rootMargin: "0px 0px -50px 0px"
+        });
+
+        fadeSections.forEach(section => {
+            sectionObserver.observe(section);
+        });
+    </script>
+</body>
+</html>
