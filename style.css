@@ -68,6 +68,10 @@ nav {
     color: var(--text-primary);
 }
 
+.nav-links a.active {
+    color: var(--accent-color);
+}
+
 /* Main Container */
 main {
     max-width: 1100px;
