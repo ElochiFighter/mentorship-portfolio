@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goals | Elliott Walker</title>
+    <!-- Google Fonts (Kept identical for style matching) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <div class="nav-item">
+            <div class="logo">Elliott Walker</div>
+            <span class="logo-small">&lt;elochi.walker@outlook.com | Midtown High School&gt;</span>
+        </div>
+        <ul class="nav-links">
+            <!-- Updated relative paths to navigate back to index sections -->
+            <li><a href="index.html#about">About</a></li>
+            <li><a href="index.html#projects">Projects</a></li>
+            <li><a href="goals.html" class="active">Goals</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <!-- Goals Section using your established scroll animation class -->
+        <section id="goals" class="fade-section">
+            <h1>Future Horizons</h1>
+            <h2>My Academic & Career Goals</h2>
+            <p>Driven by my passion for programming and systemic problem-solving, I have mapped out clear targets for my remaining high school years and my transition into the technology industry.</p>
+
+            <!-- Academic Milestones -->
+            <h3>Academic Targets</h3>
+            <ol>
+                <li>Double Major</li>
+                <ul>
+                    <li id="sub-li">Pursue a rigorous dual-degree program in Data Science and Mechatronics Engineering to merge hardware automation with predictive software.</li>
+                </ul>
+                <li>FIRST Robotics Leadership</li>
+                <ul>
+                    <li id="sub-li">Lead the robotics team's programming division to state-level recognition by implementing robust machine-learning tracking pipelines.</li>
+                </ul>
+                <li>Rigorous STEM Curriculum</li>
+                <ul>
+                    <li id="sub-li">Maintain maximum effort in high-level math and computer science classes throughout my junior and senior years at Midtown High.</li>
+                </ul>
+            </ol>
+
+            <!-- Interactive Visual: Data/Mechatronics Objective Code Box -->
+            <div class="code-snippet">
+                <span style="color: #ff7b72;">const</span> objectives = [<br>
+                &nbsp;&nbsp;<span style="color: #a5d6ff;">'FinTech Innovation'</span>,<br>
+                &nbsp;&nbsp;<span style="color: #a5d6ff;">'Machine Learning Pipelines'</span>,<br>
+                &nbsp;&nbsp;<span style="color: #a5d6ff;">'Robotic Automation'</span><br>
+                ];<br>
+                <span style="color: #ff7b72;">const</span> targetEffort = <span style="color: #79c0ff;">2.0</span>; <span style="color: #8b949e;">// 200% Effort</span>
+            </div>
+
+            <!-- Career Objectives -->
+            <h3>Professional Aspirations</h3>
+            <p>I thrive on turning raw information into actionable strategies. My long-term goal is to break into the Financial Technology (FinTech) ecosystem or join an advanced R&D facility specializing in applied artificial intelligence. I want to build systems where high-throughput data meets complex physical machines.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; Elliott Walker, 2026.</p>
+    </footer>
+
+    <!-- Advanced Scroll Fade In/Out Controller (Preserves page continuity) -->
+    <script>
+        const fadeSections = document.querySelectorAll('.fade-section');
+        const sectionObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                } else {
+                    entry.target.classList.remove('visible');
+                }
+            });
+        }, {
+            threshold: 0.15,
+            rootMargin: "0px 0px -50px 0px"
+        });
+
+        fadeSections.forEach(section => {
+            sectionObserver.observe(section);
+        });
+    </script>
+</body>
+</html>
