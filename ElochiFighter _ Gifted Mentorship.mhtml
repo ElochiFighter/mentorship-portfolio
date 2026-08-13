@@ -1,0 +1,618 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://new-sandbox-program-16-19985313.codehs.me/index.html
+Subject: ElochiFighter | Gifted Mentorship
+Date: Wed, 12 Aug 2026 20:49:16 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--65dpmZi0erWCIKuyeMII9vDvvI20750lu4cybZqQ9Y----"
+
+
+------MultipartBoundary--65dpmZi0erWCIKuyeMII9vDvvI20750lu4cybZqQ9Y----
+Content-Type: text/html
+Content-ID: <frame-B7DE1649E50429A357E9CB996B333709@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://new-sandbox-program-16-19985313.codehs.me/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-64436fd4-d650-465c-a07a-3fe59c8ecc62@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>ElochiFighter | Gifted Mentorship</title>
+    <!-- Google Fonts -->
+    <link rel=3D"preconnect" href=3D"https://fonts.googleapis.com/">
+    <link rel=3D"preconnect" href=3D"https://fonts.gstatic.com/" crossorigi=
+n=3D"">
+    <link href=3D"https://fonts.googleapis.com/css2?family=3DInter:wght@300=
+;400;500;700&amp;family=3DJetBrains+Mono:wght@400;500&amp;display=3Dswap" r=
+el=3D"stylesheet">
+    <link rel=3D"stylesheet" href=3D"https://new-sandbox-program-16-1998531=
+3.codehs.me/style.css">
+</head>
+<body>
+
+    <nav>
+        <div class=3D"nav-item">
+            <div class=3D"logo">Elliott Walker</div>
+            <span class=3D"logo-small">&lt;elochi.walker@outlook.com | Midt=
+own High School&gt;</span>
+        </div>
+        <ul class=3D"nav-links">
+            <li><a href=3D"https://new-sandbox-program-16-19985313.codehs.m=
+e/index.html#about">About</a></li>
+            <li><a href=3D"https://new-sandbox-program-16-19985313.codehs.m=
+e/index.html#projects">Projects</a></li>
+            <li><a href=3D"https://new-sandbox-program-16-19985313.codehs.m=
+e/goals.html">Goals</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <!-- Hero / About Section -->
+        <section id=3D"about" class=3D"hero fade-section visible">
+            <h1>Elliott Walker</h1>
+            <h2>About Me</h2>
+            <p>I'm a junior at Midtown High School, where I pursue stringen=
+t, STEM focused courses and extracurriculars. My CliftonStrengths Top 5 inc=
+luded:</p>
+            <ol>
+              <li>Learner</li>
+                <ul><li id=3D"sub-li">You have a great desire to learn and =
+want to continuously improve. The process of learning, rather than the outc=
+ome, excites you.</li></ul>
+              <li>Analytical</li>
+                <ul><li id=3D"sub-li">You search for reasons and causes. Yo=
+u have the ability to think about all of the factors that might affect a si=
+tuation.</li></ul>
+              <li>Intellection</li>
+                <ul><li id=3D"sub-li">You enjoy deep thinking. You are intr=
+ospective and appreciate intellectual discussions.</li></ul>
+              <li>Input</li>
+                <ul><li id=3D"sub-li">You have a need to collect and archiv=
+e. You may accumulate information, ideas, artifacts or even relationships.<=
+/li></ul>
+              <li>Consistency</li>
+                <ul><li id=3D"sub-li">You are keenly aware of the need to t=
+reat people the same. You crave stable routines and clear rules and procedu=
+res that everyone can follow.</li></ul>
+            </ol>
+            <div class=3D"code-snippet">
+                <span style=3D"color: #ff7b72;">const</span> student =3D {<=
+br>
+                &nbsp;&nbsp;name: <span style=3D"color: #a5d6ff;">'Elliott =
+Walker'</span>,<br>
+                &nbsp;&nbsp;school: <span style=3D"color: #a5d6ff;">'Midtow=
+n High School'</span>,<br>
+                &nbsp;&nbsp;age: <span style=3D"color: #a5d6ff;">'16'</span=
+><br>
+                };
+            </div>
+            <p>Computer science is my passion, and when I'm passionate abou=
+t something, I always give 200% effort. I plan to double major in Data Scie=
+nce and Mechatronics, to hopefully end up working at a large financial tech=
+ company or something more machine-learning oriented. Outside of school, I'=
+m very active in my FIRST Robotics team as a Lead programmer.</p>
+        </section>
+
+        <!-- Projects Section using RepoWidget -->
+        <section id=3D"projects" class=3D"fade-section">
+            <h2 class=3D"widget-title">Featured Repositories</h2>
+           =20
+            <!-- RepoWidget Target Container -->
+            <div id=3D"my-github-repos" style=3D"display: grid; gap: 16px;"=
+><article role=3D"region" aria-labelledby=3D"repo-title-python-nn-framework=
+" style=3D"background: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.1) 0=
+px 4px 8px; border-radius: 8px; overflow: hidden; transition: transform 0.3=
+s;">
+            <a href=3D"https://github.com/ElochiFighter/python-nn-framework=
+" target=3D"_blank" style=3D"text-decoration: none; color: inherit; display=
+: flex; flex-direction: column; height: 100%; padding: 16px;" aria-label=3D=
+"Repository python-nn-framework">
+                <div style=3D"flex: 1;">
+                    <h3 id=3D"repo-title-python-nn-framework" style=3D"font=
+-size: 1.25rem; font-weight: bold; color: #333333;">python-nn-framework</h3=
+>
+                    <p style=3D"color: #666666; margin: 8px 0;">An educatio=
+nal neural network library I made with Python and SQL from scratch, with pr=
+actical examples.</p>
+                </div>
+                <div style=3D"margin-top: auto;">
+                    <div style=3D"display: flex; align-items: center; color=
+: #888888; font-size: 0.875rem;">
+                        <span style=3D"display: flex; align-items: center; =
+margin-right: 16px;">
+                            <span style=3D"width: 10px; height: 10px; backg=
+round-color: #3572A5; border-radius: 50%; margin-right: 4px;"></span>
+                            Python
+                        </span>
+                        <span style=3D"display: flex; align-items: center; =
+margin-right: 16px;">
+                            <svg width=3D"16" height=3D"16" fill=3D"#888888=
+" style=3D"margin-right: 4px;"><path d=3D"M5 5.372v.878c0 .414.336.75.75.75=
+h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-=
+2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6=
+.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5=
+ 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 =
+0 .75.75 0 0 0 1.5 0Z"></path></svg>
+                            1
+                        </span>
+                        <span style=3D"display: flex; align-items: center;"=
+>
+                            <svg width=3D"16" height=3D"16" fill=3D"#888888=
+" style=3D"margin-right: 4px;"><path d=3D"M8 .25a.75.75 0 0 1 .673.418l1.88=
+2 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0=
+ 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.3=
+74a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path><=
+/svg>
+                            1
+                        </span>
+                    </div>
+                    <div style=3D"color: #aaaaaa; font-size: 0.75rem; margi=
+n-top: 8px;">Size: 6048 KB</div>
+                </div>
+            </a>
+        </article><article role=3D"region" aria-labelledby=3D"repo-title-me=
+ntorship-portfolio" style=3D"background: rgb(255, 255, 255); box-shadow: rg=
+ba(0, 0, 0, 0.1) 0px 4px 8px; border-radius: 8px; overflow: hidden; transit=
+ion: transform 0.3s;">
+            <a href=3D"https://github.com/ElochiFighter/mentorship-portfoli=
+o" target=3D"_blank" style=3D"text-decoration: none; color: inherit; displa=
+y: flex; flex-direction: column; height: 100%; padding: 16px;" aria-label=
+=3D"Repository mentorship-portfolio">
+                <div style=3D"flex: 1;">
+                    <h3 id=3D"repo-title-mentorship-portfolio" style=3D"fon=
+t-size: 1.25rem; font-weight: bold; color: #333333;">mentorship-portfolio</=
+h3>
+                    <p style=3D"color: #666666; margin: 8px 0;">No descript=
+ion provided</p>
+                </div>
+                <div style=3D"margin-top: auto;">
+                    <div style=3D"display: flex; align-items: center; color=
+: #888888; font-size: 0.875rem;">
+                        <span style=3D"display: flex; align-items: center; =
+margin-right: 16px;">
+                            <span style=3D"width: 10px; height: 10px; backg=
+round-color: #cccccc; border-radius: 50%; margin-right: 4px;"></span>
+                            N/A
+                        </span>
+                        <span style=3D"display: flex; align-items: center; =
+margin-right: 16px;">
+                            <svg width=3D"16" height=3D"16" fill=3D"#888888=
+" style=3D"margin-right: 4px;"><path d=3D"M5 5.372v.878c0 .414.336.75.75.75=
+h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-=
+2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6=
+.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5=
+ 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 =
+0 .75.75 0 0 0 1.5 0Z"></path></svg>
+                            0
+                        </span>
+                        <span style=3D"display: flex; align-items: center;"=
+>
+                            <svg width=3D"16" height=3D"16" fill=3D"#888888=
+" style=3D"margin-right: 4px;"><path d=3D"M8 .25a.75.75 0 0 1 .673.418l1.88=
+2 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0=
+ 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.3=
+74a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path><=
+/svg>
+                            0
+                        </span>
+                    </div>
+                    <div style=3D"color: #aaaaaa; font-size: 0.75rem; margi=
+n-top: 8px;">Size: 0 KB</div>
+                </div>
+            </a>
+        </article><article role=3D"region" aria-labelledby=3D"repo-title-mo=
+lecule-simulation" style=3D"background: rgb(255, 255, 255); box-shadow: rgb=
+a(0, 0, 0, 0.1) 0px 4px 8px; border-radius: 8px; overflow: hidden; transiti=
+on: transform 0.3s;">
+            <a href=3D"https://github.com/ElochiFighter/molecule-simulation=
+" target=3D"_blank" style=3D"text-decoration: none; color: inherit; display=
+: flex; flex-direction: column; height: 100%; padding: 16px;" aria-label=3D=
+"Repository molecule-simulation">
+                <div style=3D"flex: 1;">
+                    <h3 id=3D"repo-title-molecule-simulation" style=3D"font=
+-size: 1.25rem; font-weight: bold; color: #333333;">molecule-simulation</h3=
+>
+                    <p style=3D"color: #666666; margin: 8px 0;">No descript=
+ion provided</p>
+                </div>
+                <div style=3D"margin-top: auto;">
+                    <div style=3D"display: flex; align-items: center; color=
+: #888888; font-size: 0.875rem;">
+                        <span style=3D"display: flex; align-items: center; =
+margin-right: 16px;">
+                            <span style=3D"width: 10px; height: 10px; backg=
+round-color: #cccccc; border-radius: 50%; margin-right: 4px;"></span>
+                            N/A
+                        </span>
+                        <span style=3D"display: flex; align-items: center; =
+margin-right: 16px;">
+                            <svg width=3D"16" height=3D"16" fill=3D"#888888=
+" style=3D"margin-right: 4px;"><path d=3D"M5 5.372v.878c0 .414.336.75.75.75=
+h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-=
+2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6=
+.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5=
+ 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 =
+0 .75.75 0 0 0 1.5 0Z"></path></svg>
+                            0
+                        </span>
+                        <span style=3D"display: flex; align-items: center;"=
+>
+                            <svg width=3D"16" height=3D"16" fill=3D"#888888=
+" style=3D"margin-right: 4px;"><path d=3D"M8 .25a.75.75 0 0 1 .673.418l1.88=
+2 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0=
+ 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.3=
+74a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path><=
+/svg>
+                            0
+                        </span>
+                    </div>
+                    <div style=3D"color: #aaaaaa; font-size: 0.75rem; margi=
+n-top: 8px;">Size: 0 KB</div>
+                </div>
+            </a>
+        </article></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>=C2=A9 Elliott Walker, 2026.</p>
+    </footer>
+
+    <!-- RepoWidget Script Configuration -->
+   =20
+   =20
+
+    <!-- Advanced Scroll Fade In/Out Controller -->
+   =20
+
+</body></html>
+------MultipartBoundary--65dpmZi0erWCIKuyeMII9vDvvI20750lu4cybZqQ9Y----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://new-sandbox-program-16-19985313.codehs.me/style.css
+
+@charset "utf-8";
+
+:root { --bg-color: #0d1117; --surface-color: #161b22; --border-color: #303=
+63d; --text-primary: #f0f6fc; --text-secondary: #8b949e; --accent-color: #5=
+8a6ff; --transition-speed: 0.8s; }
+
+* { box-sizing: border-box; margin: 0px; padding: 0px; }
+
+body { font-family: Inter, sans-serif; background-color: var(--bg-color); c=
+olor: var(--text-primary); line-height: 1.6; overflow-x: hidden; }
+
+nav { position: fixed; top: 0px; width: 100%; padding: 1.5rem 2rem; display=
+: flex; justify-content: space-between; align-items: center; background: rg=
+ba(13, 17, 23, 0.8); backdrop-filter: blur(10px); border-bottom: 1px solid =
+var(--border-color); z-index: 100; }
+
+.logo { font-family: "JetBrains Mono", monospace; font-weight: 700; font-si=
+ze: 1.2rem; color: var(--accent-color); }
+
+.logo-small { font-family: "JetBrains Mono", monospace; font-weight: 700; f=
+ont-size: 0.6875rem; color: var(--accent-color); }
+
+.nav-links { display: flex; gap: 2rem; list-style: none; }
+
+.nav-links a { color: var(--text-secondary); text-decoration: none; font-si=
+ze: 0.95rem; transition: color 0.3s; }
+
+.nav-links a:hover { color: var(--text-primary); }
+
+main { max-width: 1100px; margin: 0px auto; padding: 8rem 2rem 4rem; }
+
+section { margin-bottom: 8rem; }
+
+.fade-section { opacity: 0; transform: translateY(40px); transition: opacit=
+y var(--transition-speed) ease-out, transform var(--transition-speed) ease-=
+out; will-change: opacity, transform; }
+
+.fade-section.visible { opacity: 1; transform: translateY(0px); }
+
+.hero { min-height: 60vh; display: flex; flex-direction: column; justify-co=
+ntent: center; }
+
+.hero h1 { font-size: 3.5rem; font-weight: 700; margin-bottom: 1rem; letter=
+-spacing: -0.05em; }
+
+.hero h1 span { color: var(--accent-color); }
+
+.hero p { font-size: 1.25rem; color: var(--text-secondary); max-width: 600p=
+x; margin-bottom: 2rem; }
+
+.code-snippet { font-family: "JetBrains Mono", monospace; background-color:=
+ var(--surface-color); border: 1px solid var(--border-color); padding: 1.5r=
+em; border-radius: 6px; max-width: 500px; color: rgb(121, 192, 255); font-s=
+ize: 0.9rem; }
+
+.widget-title { font-size: 2rem; margin-bottom: 2rem; font-weight: 700; bor=
+der-bottom: 1px solid var(--border-color); padding-bottom: 0.5rem; }
+
+#my-github-repos { display: grid; grid-template-columns: repeat(auto-fill, =
+minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1.5rem; }
+
+.repowidget-item, .repo-card { background-color: var(--surface-color) !impo=
+rtant; border: 1px solid var(--border-color) !important; border-radius: 6px=
+ !important; padding: 1.5rem !important; color: var(--text-primary) !import=
+ant; }
+
+footer { border-top: 1px solid var(--border-color); padding: 2rem; text-ali=
+gn: center; color: var(--text-secondary); font-size: 0.85rem; }
+
+.nav-item { display: flex; flex-direction: column; align-items: center; }
+
+#about h1 { color: var(--text-primary); }
+
+#about h2 { color: var(--accent-color); }
+
+#about p { color: var(--text-primary); }
+
+.fade-section li { font-family: Inter, sans-serif; font-size: 1.1rem; color=
+: var(--text-primary); max-width: 600px; margin-bottom: 1rem; margin-left: =
+2rem; }
+
+#sub-li { font-family: Inter, sans-serif; font-size: 0.9rem; max-width: 600=
+px; margin-bottom: 1rem; margin-left: 2.5rem; }
+------MultipartBoundary--65dpmZi0erWCIKuyeMII9vDvvI20750lu4cybZqQ9Y----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhs=
+k.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhs=
+k.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhs=
+k.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhs=
+k.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhs=
+k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.=
+woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+=
+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhs=
+k.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhs=
+k.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhs=
+k.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhs=
+k.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhs=
+k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.=
+woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+=
+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--65dpmZi0erWCIKuyeMII9vDvvI20750lu4cybZqQ9Y----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-64436fd4-d650-465c-a07a-3fe59c8ecc62@mhtml.blink
+
+@charset "utf-8";
+
+#my-github-repos { grid-template-columns: repeat(1, 1fr); }
+
+@media (min-width: 640px) {
+  #my-github-repos { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 1024px) {
+  #my-github-repos { grid-template-columns: repeat(3, 1fr); }
+}
+------MultipartBoundary--65dpmZi0erWCIKuyeMII9vDvvI20750lu4cybZqQ9Y------
