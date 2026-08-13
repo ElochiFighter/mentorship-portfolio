@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ElochiFighter | Gifted Mentorship</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <div class="nav-item">
+            <div class="logo">Elliott Walker</div>
+            <span class="logo-small">&lt;elochi.walker@outlook.com | Midtown High School&gt;</span>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="goals.html">Goals</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <!-- Hero / About Section -->
+        <section id="about" class="hero fade-section">
+            <h1>Elliott Walker</h1>
+            <h2>About Me</h2>
+            <p>I'm a junior at Midtown High School, where I pursue stringent, STEM focused courses and extracurriculars. My CliftonStrengths Top 5 included:</p>
+            <ol>
+              <li>Learner</li>
+                <ul><li id="sub-li">You have a great desire to learn and want to continuously improve. The process of learning, rather than the outcome, excites you.</li></ul>
+              <li>Analytical</li>
+                <ul><li id="sub-li">You search for reasons and causes. You have the ability to think about all of the factors that might affect a situation.</li></ul>
+              <li>Intellection</li>
+                <ul><li id="sub-li">You enjoy deep thinking. You are introspective and appreciate intellectual discussions.</li></ul>
+              <li>Input</li>
+                <ul><li id="sub-li">You have a need to collect and archive. You may accumulate information, ideas, artifacts or even relationships.</li></ul>
+              <li>Consistency</li>
+                <ul><li id="sub-li">You are keenly aware of the need to treat people the same. You crave stable routines and clear rules and procedures that everyone can follow.</li></ul>
+            </ol>
+            <div class="code-snippet">
+                <span style="color: #ff7b72;">const</span> student = {<br>
+                &nbsp;&nbsp;name: <span style="color: #a5d6ff;">'Elliott Walker'</span>,<br>
+                &nbsp;&nbsp;school: <span style="color: #a5d6ff;">'Midtown High School'</span>,<br>
+                &nbsp;&nbsp;age: <span style="color: #a5d6ff;">'16'</span><br>
+                };
+            </div>
+            <p>Computer science is my passion, and when I'm passionate about something, I always give 200% effort. I plan to double major in Data Science and Mechatronics, to hopefully end up working at a large financial tech company or something more machine-learning oriented. Outside of school, I'm very active in my FIRST Robotics team as a Lead programmer.</p>
+        </section>
+
+        <!-- Projects Section using RepoWidget -->
+        <section id="projects" class="fade-section">
+            <h2 class="widget-title">Featured Repositories</h2>
+            
+            <!-- RepoWidget Target Container -->
+            <div id="my-github-repos"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; Elliott Walker, 2026.</p>
+    </footer>
+
+    <!-- RepoWidget Script Configuration -->
+    <script src="https://cdn.jsdelivr.net/gh/peterbenoit/RepoWidget@latest/dist/repoWidget.min.js"></script>
+    <script>
+        createRepoWidget({
+            username: 'ElochiFighter',
+            containerId: 'my-github-repos',
+            maxRepos: 6,
+            sortBy: 'stars',
+            forked: false
+        });
+    </script>
+
+    <!-- Advanced Scroll Fade In/Out Controller -->
+    <script>
+        const fadeSections = document.querySelectorAll('.fade-section');
+
+        const sectionObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                } else {
+                    // This creates the fade-out effect when scrolling away
+                    entry.target.classList.remove('visible');
+                }
+            });
+        }, {
+            threshold: 0.15, // Triggers when 15% of the element is visible
+            rootMargin: "0px 0px -50px 0px"
+        });
+
+        fadeSections.forEach(section => {
+            sectionObserver.observe(section);
+        });
+    </script>
+</body>
+</html>
