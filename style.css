@@ -1,0 +1,201 @@
+:root {
+    --bg-color: #0d1117;
+    --surface-color: #161b22;
+    --border-color: #30363d;
+    --text-primary: #f0f6fc;
+    --text-secondary: #8b949e;
+    --accent-color: #58a6ff;
+    --transition-speed: 0.8s;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+/* Navigation */
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 1.5rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(13, 17, 23, 0.8);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--border-color);
+    z-index: 100;
+}
+
+.logo {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: var(--accent-color);
+}
+
+.logo-small {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 700;
+    font-size: 0.6875rem;
+    color: var(--accent-color);
+}
+
+.nav-links {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
+
+.nav-links a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-size: 0.95rem;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: var(--text-primary);
+}
+
+/* Main Container */
+main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 8rem 2rem 4rem 2rem;
+}
+
+/* Section Layout */
+section {
+    margin-bottom: 8rem;
+}
+
+/* Advanced Fade-in / Fade-out via Scroll Animation Styles */
+.fade-section {
+    opacity: 0;
+    transform: translateY(40px);
+    transition: opacity var(--transition-speed) ease-out, transform var(--transition-speed) ease-out;
+    will-change: opacity, transform;
+}
+
+.fade-section.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Hero Section */
+.hero {
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    letter-spacing: -0.05em;
+}
+
+.hero h1 span {
+    color: var(--accent-color);
+}
+
+.hero p {
+    font-size: 1.25rem;
+    color: var(--text-secondary);
+    max-width: 600px;
+    margin-bottom: 2rem;
+}
+
+.code-snippet {
+    font-family: 'JetBrains Mono', monospace;
+    background-color: var(--surface-color);
+    border: 1px solid var(--border-color);
+    padding: 1.5rem;
+    border-radius: 6px;
+    max-width: 500px;
+    color: #79c0ff;
+    font-size: 0.9rem;
+}
+
+/* Portfolio Widget Customization Overrides */
+.widget-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    font-weight: 700;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+/* Customizing RepoWidget standard outputs to integrate with Dark Theme */
+#my-github-repos {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+/* Fallback styling tweaks for RepoWidget items to match elite professional theme */
+.repowidget-item, .repo-card {
+    background-color: var(--surface-color) !important;
+    border: 1px solid var(--border-color) !important;
+    border-radius: 6px !important;
+    padding: 1.5rem !important;
+    color: var(--text-primary) !important;
+}
+
+/* Footer */
+footer {
+    border-top: 1px solid var(--border-color);
+    padding: 2rem;
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+}
+
+.nav-item {
+  display: flex;
+  flex-direction: column; /* Stacks the children vertically */
+  align-items: center;    /* Centers the text under the icon/div */
+}
+
+#about h1 {
+    color: var(--text-primary);
+}
+
+#about h2 {
+    color: var(--accent-color);
+}
+
+#about p {
+    color: var(--text-primary);
+}
+
+.fade-section li {
+    font-family: 'Inter', sans-serif;
+    font-size: 1.1rem;
+    color: var(--text-primary);
+    max-width: 600px;
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+}
+
+#sub-li {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.9rem;
+    max-width: 600px;
+    margin-bottom: 1rem;
+    margin-left: 2.5rem;
+}
