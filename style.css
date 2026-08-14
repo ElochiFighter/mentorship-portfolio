@@ -203,3 +203,47 @@ footer {
     margin-bottom: 1rem;
     margin-left: 2.5rem;
 }
+
+/* Creates fluid columns that adapt to screen size */
+.vision-board-masonry {
+  column-count: 4;
+  column-gap: 16px;
+  padding: 16px;
+  background-color: #f9f9f9;
+}
+
+/* Base item wrapper */
+.board-card {
+  display: inline-block; /* Crucial for preventing card splitting across columns */
+  width: 100%;
+  margin-bottom: 16px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease;
+}
+
+.board-card:hover {
+  transform: translateY(-4px);
+}
+
+/* Scales image perfectly while maintaining original proportions */
+.board-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Responsive column adjustments */
+@media (max-width: 900px) {
+  .vision-board-masonry {
+    column-count: 3;
+    background-color: var(--border-color);
+  }
+}
+
+@media (max-width: 600px) {
+  .vision-board-masonry {
+    column-count: 2;
+  }
+}
